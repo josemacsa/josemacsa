@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?josemacsa&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=josemacsa&style=for-the-badge)
 
 <!--
 **josemacsa/josemacsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
